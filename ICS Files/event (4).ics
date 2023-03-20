@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230131T150000Z
+DTEND:20230131T153000Z
+SUMMARY:Starting an Intelligence Program Centered Around Open-Source Synapse
+DESCRIPTION:Synapse is an open-source intelligence platform created to serve analysts and its base of users has exploded recently due to its popularity. Do you want your team to use Synapse, but it seems like a daunting task? This talk is meant to demonstrate the analytic benefits that come from using Synapse and give initial steps for how to set up your Synapse-centered program. Topics include setting up your databases, writing documentation, creating intelligence workflows, setting schemas, and creating outputs.&nbsp;
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

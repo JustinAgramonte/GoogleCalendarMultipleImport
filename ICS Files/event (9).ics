@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230131T184000Z
+DTEND:20230131T191000Z
+SUMMARY:Brighten Up the Ideal Sky:  An inside view of CharmingKitten’s Operations and Support to the IRGC
+DESCRIPTION:We’ll use Proofpoint telemetry and reporting along with sensitive collection from adversary infrastructure along to better understand TA453 (CharmingKitten) and delve into their varied phishing techniques, targeting, and attribution.  We will first examine a sampling of the different techniques TA453 utilizes to engage their targets with spear phishing. Having established the baseline of typical TA453 activity, we can then look at outliers, both in targeting and techniques used. These anomalies, where TA453 deviate from their typical tactics to increase their odds of success, give us insight into how they approach particularly high value targets.  Once we understand how TA453 is collecting information, we’ll combine Proofpoint telemetry with data from TA453’s own collection to categorize and analyze TA453’s targeting. This will allow us to identify TA453 priorities and strengthen our attribution that aligns with the IRGC Intelligence Organization. We’ll continue by looking at evidence suggesting TA453 provides holistic support to increasingly hostile IRGC operations including physical surveillance, intimidation operations and possible assassination plots.   We’ll conclude by looking at CharmingKitten as a case study in attribution pitfall and thus strengthens the argument for unique naming for clusters of activity.
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

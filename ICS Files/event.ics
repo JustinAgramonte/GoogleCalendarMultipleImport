@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230130T203500Z
+DTEND:20230130T210500Z
+SUMMARY:Malware Analysis: What's the Point?
+DESCRIPTION:While there are many resources available on "how" to analyze malware, there are far fewer resources regarding "why" to analyze malware. This talk will focus on helping malware analysts and organizations understand the role malware analysis plays in a larger intelligence capability. To highlight this role, we'll discuss how malware analysis demystifies malware capabilities to clarify the events of security incidents, how analysis produces more reliable attribution of events to specific adversary tools, and improved detection outcomes. Attendees can expect to learn how malware analysis compliments documentation that may be flawed from traditional monitoring tools. They can expect to learn how analysis provides a clearer picture when multiple malware families are combined in a single attack. Finally, they can expect to learn how analysis takes open-source intelligence and digs deeper into documented details to find detection ideas that others haven't yet published.
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230131T140000Z
+DTEND:20230131T142000Z
+SUMMARY:Welcome Back & Pop Quiz
+DESCRIPTION:Were you paying attention yesterday? Show off what you've learned so far with a fun refresher to kick off Day 2!
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

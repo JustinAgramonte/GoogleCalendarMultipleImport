@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230130T211000Z
+DTEND:20230130T214000Z
+SUMMARY:Ransomware Rebranding: So Hot Right Now!
+DESCRIPTION:Ransomware rebranding is becoming one of the most common techniques that ransomware groups are leveraging to obfuscate their operations and remain under the radar. From high-profile groups like Evil Corp and Wizard Spider to up and coming groups like AlphV and Blackbyte, the rebranding process has provided viable solution for extending operational capabilities after high profile attacks, including attacks on critical infrastructure. This talk will examine rebranding trends from 2020 until present and provide a thorough review of the impacts ransomware rebranding has had on the operational capacity of multiple ransomware groups. Lastly, this talk will analyze methods that threat intelligence analysts can utilize to compare traits and behaviors between ransomware groups to determine if the group is a likely rebrand or something new altogether.
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

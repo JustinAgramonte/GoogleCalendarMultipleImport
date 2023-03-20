@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230131T142500Z
+DTEND:20230131T145500Z
+SUMMARY:Reimagining Intelligence Deliverables Using Structured Threat Content
+DESCRIPTION:Structured threat content is not a new field. Since 2012 we have Structured Threat Information Expression (STIX) and since 2013 MITRE's ATT&CK framework. New trends in this field are still identified, focusing on improving storytelling using structured threat content. What does it take to make this work in your deliverables? What can we do to leverage this more effectively, saving our analyst's time? How can we view our deliverables differently and still make more impact? In this talk, the author(s) provide you a practical and hands-on view of this situation. Any given day, you might collect, process, and analyze over a dozen (intelligence) deliverable to eventually create one yourself. Perhaps some research or incident data is tagged and annotated to these or similar frameworks. Still, evaluating different perspectives, terminologies, and approaches, in different formats, consumes a lot of analyst time. Now this becomes more challenging in situations where you have more qualitative than quantitative data. Our industry does not make this easier by standardizing itself on typical formats, such as documents and presentations. The objective of this talk is twofold: provide an overview of current options for you to use structure threat content in your organization and provide new applications usable the next day. Providing insight into current research insights. Evaluating options for structured threat content. Demonstrating applications, such as quantitative vs qualitative. Finally, exploring areas of future innovation for the cyber threat intelligence industry. 
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

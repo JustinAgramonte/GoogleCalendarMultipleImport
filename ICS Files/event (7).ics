@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230131T180500Z
+DTEND:20230131T183500Z
+SUMMARY:Operationalizing Intelligence SOPs with Think Steps
+DESCRIPTION:The field of cyber threat intelligence can be fast-paced and it can be challenging to stop and take the time to update standard operating procedures (SOPs). This is one of the main reasons it is detrimental to teams when an experienced analyst leaves. There is research to support that our brains may be programmed to forget by design to help us survive. In a way our brains may be constantly going through a data management process determining what is important and what is not so we can continue to evolve to new environments. Within this presentation, I am going to introduce the concept of think steps which can be a beneficial tool for capturing tacit knowledge from subject matter experts to improve intelligence SOPs.
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

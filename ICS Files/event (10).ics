@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230131T191500Z
+DTEND:20230131T194500Z
+SUMMARY:How to Use CTI, No Matter the Size of Your Organization
+DESCRIPTION:Most cyber threat intelligence (CTI) professionals know how to tailor intelligence products for their clients. But  the shape of an intelligence team can also be tailored depending on the size (and budget) of the business as well. Through various information sharing organizations, I've worked with smaller firms who often have one person covering all of information security. It's through these interactions that I've come to understand first how different sized firms use (if they use) intelligence and secondly brainstorm with them on how to improve the use of threat intelligence to fit their needs. Intelligence analysts like "intelligence needs." &nbsp;This talk will focus on how to utilize CTI as a function across various sizes of information security teams from one person being responsible for information security all the way to a large dedicated CTI team, and what would be needed for each. This will include sources to focus on for collection efforts and suggestions of deliverables the team could produce.&nbsp;
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

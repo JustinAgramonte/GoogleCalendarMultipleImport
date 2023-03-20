@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230131T163000Z
+DTEND:20230131T170000Z
+SUMMARY:Luna Moth: A Practical Case of Threat Intelligence - From IoC to Unraveling an Attacker Infrastructure
+DESCRIPTION:Pivoting, or being able to move between indicators of compromise and up David Bianco's Pyramid of Pain to uncover the threat actor's tactics, techniques and procedures (TTPs) is a common practice in Cyber threat intelligence (CTI) operations. However, it is sometimes regarded more as a black art than a science. In this talk we will discuss a threat group dubbed "Luna Moth" that leverages call-back phishing techniques, as a case study to walk you through the process of leveraging indicators of compromise identified while responding to several security breaches to uncover the threat actor's infrastructure. The talk will include: 1. An overview of several breaches we investigated focusing on the attacker's modus operandi. 2. A breakdown of two techniques which were used to pivot between IOCs to uncover and track the threat actor infrastructure. 3. Example of employing automation to continuously monitor the threat actor's infrastructure.
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

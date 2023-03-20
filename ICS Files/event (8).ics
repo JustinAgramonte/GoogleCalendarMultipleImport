@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230131T180500Z
+DTEND:20230131T205000Z
+SUMMARY:This Threat Actor Doesn’t Exist (But You Can Learn to Find Them Anyway)
+DESCRIPTION:KC7 is a cybersecurity game that was developed by analysts at Microsoft’s Threat Intelligence Center (MSTIC), a team that focuses on tracking the most sophisticated cyber actors in the world. In this workshop, attendees will get hands-on threat intelligence experience through KC7, which simulates adversary tracking via intrusions by multiple actors into an organization. NB: Laptops are recommended for participating in this workshop. Attendees will:   Learn how to use Kusto Query Language (KQL) to manipulate data in      Azure Data Explorer clusters.  Pivot across simulated datasets- including email, web browsing,      passive DNS, and endpoint data- to learn how to identify adversary      techniques, tools, and infrastructure.  Use multiple “pivoting” techniques to track the activity of one or      more Advanced Persistent Threat (APT) actors.  Analyze third-party reporting on APT actors and their infrastructure      and capabilities.  Validate a threat actor’s Techniques, Tactics, and Procedures      (TTPs).  Cluster threat activity using the Diamond Model and other threat      analysis frameworks. 
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20230131T155500Z
+DTEND:20230131T162500Z
+SUMMARY:The Cyber Vory: The Evolution of the Russian Organized Crime threat actors
+DESCRIPTION:The Vory, aka Russian Organized Crime (ROC) has a long and sordid history. Over the century, this subculture has developed into a sophisticated family of threat actors, responsible for a significant number of serious breaches and ransomware attacks. What separates Russian Organized Crime groups from other groups is the unique relationship it has had with the various Russian and Soviet governments in the last century. The history of ROC has a direct impact on how the threat actors operate. This talk will specifically address the following topics: The historical relationship between organized crime and various Russian governments The role the Vory played in the collapse of the Soviet Union and the oligarchy that emerged in its place Organized Crime or APT - how ROC capabilities cross into Advanced Persistent Threat TTPs Notable threat actor groups such as Conti and REvil Notable campaigns such as the Colonial Pipeline attack What security and intelligence practitioners need to know about the Cyber Vory What will we see in light of the current Russian/United States relationship? Security practitioners and intelligence professionals will come away with a deeper understanding of how the history of the Vory informs today and tomorrow's cyber attacks by these groups.
+LOCATION:https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2023
+END:VEVENT
+END:VCALENDAR
